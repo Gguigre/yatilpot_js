@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/yatilpot/static/js/runtime~main.83dd5c2a.js"
   },
   {
-    "revision": "7ba01df29d67c9a7ee5e",
+    "revision": "cff490504ff21e8f348a",
     "url": "/yatilpot/static/js/main.689133a9.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/yatilpot/static/js/2.948d4d77.chunk.js"
   },
   {
-    "revision": "7ba01df29d67c9a7ee5e",
-    "url": "/yatilpot/static/css/main.53bb2071.chunk.css"
+    "revision": "cff490504ff21e8f348a",
+    "url": "/yatilpot/static/css/main.fd10831f.chunk.css"
   },
   {
-    "revision": "aa8161155a23a302e1a416fbf54a1899",
+    "revision": "8f5e76e5b215825e5a70151ef1f8c32b",
     "url": "/yatilpot/index.html"
   }
 ];
