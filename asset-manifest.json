@@ -1,14 +1,15 @@
 {
-  "main.css": "/yatilpot/static/css/main.fd10831f.chunk.css",
-  "main.js": "/yatilpot/static/js/main.689133a9.chunk.js",
-  "main.js.map": "/yatilpot/static/js/main.689133a9.chunk.js.map",
+  "main.css": "/yatilpot/static/css/main.0959170c.chunk.css",
+  "main.js": "/yatilpot/static/js/main.04022239.chunk.js",
+  "main.js.map": "/yatilpot/static/js/main.04022239.chunk.js.map",
   "runtime~main.js": "/yatilpot/static/js/runtime~main.83dd5c2a.js",
   "runtime~main.js.map": "/yatilpot/static/js/runtime~main.83dd5c2a.js.map",
-  "static/js/2.948d4d77.chunk.js": "/yatilpot/static/js/2.948d4d77.chunk.js",
-  "static/js/2.948d4d77.chunk.js.map": "/yatilpot/static/js/2.948d4d77.chunk.js.map",
+  "static/js/2.b865dd5e.chunk.js": "/yatilpot/static/js/2.b865dd5e.chunk.js",
+  "static/js/2.b865dd5e.chunk.js.map": "/yatilpot/static/js/2.b865dd5e.chunk.js.map",
   "index.html": "/yatilpot/index.html",
-  "precache-manifest.53965b24ddc92b677b658c794a92b250.js": "/yatilpot/precache-manifest.53965b24ddc92b677b658c794a92b250.js",
+  "precache-manifest.41ae575602f84717fcea98dfc9918543.js": "/yatilpot/precache-manifest.41ae575602f84717fcea98dfc9918543.js",
   "service-worker.js": "/yatilpot/service-worker.js",
-  "static/css/main.fd10831f.chunk.css.map": "/yatilpot/static/css/main.fd10831f.chunk.css.map",
-  "static/media/logo.svg": "/yatilpot/static/media/logo.99354d08.svg"
+  "static/css/main.0959170c.chunk.css.map": "/yatilpot/static/css/main.0959170c.chunk.css.map",
+  "static/media/beer.svg": "/yatilpot/static/media/beer.99354d08.svg",
+  "static/media/sad.svg": "/yatilpot/static/media/sad.5358081a.svg"
 }
