@@ -3,9 +3,12 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite alternate 1s linear;
   height: 40vmin;
   pointer-events: none;
+}
+
+.Wiggle {
+  animation: App-logo-spin infinite alternate 1s linear;
 }
 
 .App-header {
