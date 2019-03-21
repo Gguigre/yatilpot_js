@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/yatilpot/static/css/main.0959170c.chunk.css"
   },
   {
-    "revision": "4b235ac0aed2dd2029a5c033063326d4",
+    "revision": "c9f7b434d12a30d3860a16bef54ac34d",
     "url": "/yatilpot/index.html"
   }
 ];
