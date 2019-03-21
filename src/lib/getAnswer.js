@@ -9,6 +9,7 @@ export const SATURDAY = "SATURDAY";
 export const ANSWER_YES = "YES";
 export const ANSWER_NO = "NO";
 export const ANSWER_ALMOST = "ALMOST";
+export const ANSWER_YOU_ARE_LATE = "YOU_ARE_LATE";
 
 const dayName = [
   SUNDAY,
@@ -28,8 +29,10 @@ export const getAnswer = () => {
   if (dayName[dayNumber] === FRIDAY) {
     if (hour >= 16 && hour < 18) {
       return ANSWER_ALMOST;
-    } else if (hour >= 18) {
+    } else if (hour >= 18 && hour < 20) {
       return ANSWER_YES;
+    } else if (hour >= 20) {
+      return ANSWER_YOU_ARE_LATE;
     } else {
       return ANSWER_NO;
     }
