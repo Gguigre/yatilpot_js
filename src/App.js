@@ -1,11 +1,7 @@
 import React, { Component } from "react";
-import beer from "./assets/beer.svg";
-import sad from "./assets/sad.svg";
 import "./App.css";
 import {
   getAnswer,
-  ANSWER_YES,
-  ANSWER_NO,
   ANSWER_YOU_ARE_LATE
 } from "./lib/getAnswer";
 import { AnswerPicto, AnswerText } from "./components";
