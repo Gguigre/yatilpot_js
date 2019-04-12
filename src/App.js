@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 import "./App.css";
-import {
-  getAnswer,
-  ANSWER_YOU_ARE_LATE
-} from "./lib/getAnswer";
+import { getAnswer, ANSWER_YOU_ARE_LATE } from "./lib/getAnswer";
 import { AnswerPicto, AnswerText } from "./components";
+import { Deglingos } from "./components/Deglingos/Deglingos.component";
 
 class App extends Component {
+  state = {
+    deglingosMode: false
+  };
   componentDidMount() {
     if (getAnswer() === ANSWER_YOU_ARE_LATE) {
       window.location.replace(
@@ -19,8 +20,28 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <AnswerPicto />
-          <AnswerText />
+          <button
+            style={{
+              position: "absolute",
+              right: 16,
+              top: 16,
+              width: 70,
+              height: 30,
+              backgroundColor: "transparent",
+              borderColor: "transparent"
+            }}
+            onClick={() =>
+              this.setState({ deglingosMode: !this.state.deglingosMode })
+            }
+          />
+          {!this.state.deglingosMode ? (
+            <React.Fragment>
+              <AnswerPicto />
+              <AnswerText />
+            </React.Fragment>
+          ) : (
+            <Deglingos />
+          )}
         </header>
       </div>
     );
