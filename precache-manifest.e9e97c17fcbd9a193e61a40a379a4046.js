@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/yatilpot/static/js/runtime~main.83dd5c2a.js"
   },
   {
-    "revision": "c232ed84cca5175cf0d2",
-    "url": "/yatilpot/static/js/main.51dfe351.chunk.js"
+    "revision": "33553758a6ae3868c21b",
+    "url": "/yatilpot/static/js/main.2f62ac79.chunk.js"
   },
   {
-    "revision": "32f875a34a307c1f1ed2",
-    "url": "/yatilpot/static/js/2.d7052121.chunk.js"
+    "revision": "aeb252a98df2389cb4c4",
+    "url": "/yatilpot/static/js/2.b91bfe70.chunk.js"
   },
   {
-    "revision": "c232ed84cca5175cf0d2",
+    "revision": "33553758a6ae3868c21b",
     "url": "/yatilpot/static/css/main.0959170c.chunk.css"
   },
   {
-    "revision": "c9f7b434d12a30d3860a16bef54ac34d",
+    "revision": "c4084afdfd4a0cceee395a08f025a4a3",
     "url": "/yatilpot/index.html"
   }
 ];
