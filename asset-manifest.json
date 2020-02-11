@@ -1,15 +1,16 @@
 {
   "main.css": "/yatilpot/static/css/main.0959170c.chunk.css",
-  "main.js": "/yatilpot/static/js/main.2f62ac79.chunk.js",
-  "main.js.map": "/yatilpot/static/js/main.2f62ac79.chunk.js.map",
+  "main.js": "/yatilpot/static/js/main.952d29fb.chunk.js",
+  "main.js.map": "/yatilpot/static/js/main.952d29fb.chunk.js.map",
   "runtime~main.js": "/yatilpot/static/js/runtime~main.83dd5c2a.js",
   "runtime~main.js.map": "/yatilpot/static/js/runtime~main.83dd5c2a.js.map",
-  "static/js/2.b91bfe70.chunk.js": "/yatilpot/static/js/2.b91bfe70.chunk.js",
-  "static/js/2.b91bfe70.chunk.js.map": "/yatilpot/static/js/2.b91bfe70.chunk.js.map",
+  "static/js/2.0be0d677.chunk.js": "/yatilpot/static/js/2.0be0d677.chunk.js",
+  "static/js/2.0be0d677.chunk.js.map": "/yatilpot/static/js/2.0be0d677.chunk.js.map",
   "index.html": "/yatilpot/index.html",
-  "precache-manifest.e9e97c17fcbd9a193e61a40a379a4046.js": "/yatilpot/precache-manifest.e9e97c17fcbd9a193e61a40a379a4046.js",
+  "precache-manifest.d31951d6d2963d2ccf986002ca212fb2.js": "/yatilpot/precache-manifest.d31951d6d2963d2ccf986002ca212fb2.js",
   "service-worker.js": "/yatilpot/service-worker.js",
   "static/css/main.0959170c.chunk.css.map": "/yatilpot/static/css/main.0959170c.chunk.css.map",
   "static/media/beer.svg": "/yatilpot/static/media/beer.99354d08.svg",
+  "static/media/depardieu.jpeg": "/yatilpot/static/media/depardieu.70266fc4.jpeg",
   "static/media/sad.svg": "/yatilpot/static/media/sad.5358081a.svg"
 }
