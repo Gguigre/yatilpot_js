@@ -1,10 +1,8 @@
 import React, { Component } from "react";
 import "./App.css";
-import {
-  getAnswer,
-  ANSWER_YOU_ARE_LATE
-} from "./lib/getAnswer";
+import { getAnswer, ANSWER_YOU_ARE_LATE } from "./lib/getAnswer";
 import { AnswerPicto, AnswerText } from "./components";
+import virus from "./assets/virus.png";
 
 class App extends Component {
   componentDidMount() {
@@ -21,6 +19,7 @@ class App extends Component {
         <header className="App-header">
           <AnswerPicto />
           <AnswerText />
+          <img src={virus} style={{ position: "absolute", width: 200 }} />
         </header>
       </div>
     );
