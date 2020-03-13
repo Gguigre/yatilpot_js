@@ -19,7 +19,10 @@ class App extends Component {
         <header className="App-header">
           <AnswerPicto />
           <AnswerText />
-          <img src={virus} style={{ position: "absolute", width: 200 }} />
+          <img
+            src={virus}
+            style={{ position: "absolute", width: "70%", opacity: 0.95 }}
+          />
         </header>
       </div>
     );
