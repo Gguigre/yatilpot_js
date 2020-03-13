@@ -1,16 +1,17 @@
 {
   "main.css": "/yatilpot/static/css/main.0959170c.chunk.css",
-  "main.js": "/yatilpot/static/js/main.952d29fb.chunk.js",
-  "main.js.map": "/yatilpot/static/js/main.952d29fb.chunk.js.map",
+  "main.js": "/yatilpot/static/js/main.4148915c.chunk.js",
+  "main.js.map": "/yatilpot/static/js/main.4148915c.chunk.js.map",
   "runtime~main.js": "/yatilpot/static/js/runtime~main.83dd5c2a.js",
   "runtime~main.js.map": "/yatilpot/static/js/runtime~main.83dd5c2a.js.map",
-  "static/js/2.0be0d677.chunk.js": "/yatilpot/static/js/2.0be0d677.chunk.js",
-  "static/js/2.0be0d677.chunk.js.map": "/yatilpot/static/js/2.0be0d677.chunk.js.map",
+  "static/js/2.9e2fb43a.chunk.js": "/yatilpot/static/js/2.9e2fb43a.chunk.js",
+  "static/js/2.9e2fb43a.chunk.js.map": "/yatilpot/static/js/2.9e2fb43a.chunk.js.map",
   "index.html": "/yatilpot/index.html",
-  "precache-manifest.d31951d6d2963d2ccf986002ca212fb2.js": "/yatilpot/precache-manifest.d31951d6d2963d2ccf986002ca212fb2.js",
+  "precache-manifest.427173d1f855b5ea0648cd24e4cfb32e.js": "/yatilpot/precache-manifest.427173d1f855b5ea0648cd24e4cfb32e.js",
   "service-worker.js": "/yatilpot/service-worker.js",
   "static/css/main.0959170c.chunk.css.map": "/yatilpot/static/css/main.0959170c.chunk.css.map",
   "static/media/beer.svg": "/yatilpot/static/media/beer.99354d08.svg",
   "static/media/depardieu.jpeg": "/yatilpot/static/media/depardieu.70266fc4.jpeg",
-  "static/media/sad.svg": "/yatilpot/static/media/sad.5358081a.svg"
+  "static/media/sad.svg": "/yatilpot/static/media/sad.5358081a.svg",
+  "static/media/virus.png": "/yatilpot/static/media/virus.fe759d5f.png"
 }

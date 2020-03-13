@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "7520c7a0249e6c334821",
+    "revision": "3daea18e3af5ab4e9156",
     "url": "/yatilpot/static/css/main.0959170c.chunk.css"
   },
   {
-    "revision": "7520c7a0249e6c334821",
-    "url": "/yatilpot/static/js/main.952d29fb.chunk.js"
+    "revision": "3daea18e3af5ab4e9156",
+    "url": "/yatilpot/static/js/main.4148915c.chunk.js"
   },
   {
     "revision": "92c6c0edb0510a0e916b",
     "url": "/yatilpot/static/js/runtime~main.83dd5c2a.js"
   },
   {
-    "revision": "9c73e0f245ae359fef38",
-    "url": "/yatilpot/static/js/2.0be0d677.chunk.js"
+    "revision": "d364b353c96f122868d3",
+    "url": "/yatilpot/static/js/2.9e2fb43a.chunk.js"
   },
   {
     "revision": "99354d081a52c4de0478f95e317f148f",
@@ -28,7 +28,11 @@ self.__precacheManifest = [
     "url": "/yatilpot/static/media/depardieu.70266fc4.jpeg"
   },
   {
-    "revision": "fd4cf2d47bb4a51bacca9c58ced9a212",
+    "revision": "fe759d5fac968accb2dc6bc89603131f",
+    "url": "/yatilpot/static/media/virus.fe759d5f.png"
+  },
+  {
+    "revision": "708943c85b31ec0b4e1e33cfb84caf25",
     "url": "/yatilpot/index.html"
   }
 ];
