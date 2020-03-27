@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/yatilpot/precache-manifest.3faa5a79f9081c74cf7815dac745526a.js"
+  "/yatilpot/precache-manifest.a8bc5ffa79c332848dac99d56f1826ae.js"
 );
 
 workbox.clientsClaim();
