@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a17b7b8b0ba4e1c725ab",
+    "revision": "d766e6c6ea5fe19adbce",
     "url": "/yatilpot/static/css/main.0959170c.chunk.css"
   },
   {
-    "revision": "a17b7b8b0ba4e1c725ab",
-    "url": "/yatilpot/static/js/main.df8d3dbe.chunk.js"
+    "revision": "d766e6c6ea5fe19adbce",
+    "url": "/yatilpot/static/js/main.2c2d53a5.chunk.js"
   },
   {
     "revision": "92c6c0edb0510a0e916b",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/yatilpot/static/media/virus.fe759d5f.png"
   },
   {
-    "revision": "05df67176317911911a889acffa0f0de",
+    "revision": "450e6852ee17fe7ef8b1377e6fb972a3",
     "url": "/yatilpot/index.html"
   }
 ];
