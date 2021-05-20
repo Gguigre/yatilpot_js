@@ -18,15 +18,17 @@ const dayName = [
   WEDNESDAY,
   THURSDAY,
   FRIDAY,
-  SATURDAY
+  SATURDAY,
 ];
+
+const DAYS_WITH_POT = [...dayName];
 
 export const getAnswer = () => {
   const date = new Date();
   const dayNumber = date.getDay();
   const hour = date.getHours();
 
-  if (dayName[dayNumber] === FRIDAY) {
+  if (DAYS_WITH_POT.includes(dayName[dayNumber])) {
     if (hour >= 16 && hour < 18) {
       return ANSWER_ALMOST;
     } else if (hour >= 18 && hour < 20) {
